@@ -4,10 +4,10 @@
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in 2nd year  at Sandip University Nashik 👨‍🎓
 
-- ⚒️ I’m currently working on Social Media Application  
-- ♨️ I’m currently learning about Data Structures , with JAVA 
-- ⛓️ I’m looking forward to learn Blockchain Technology
-- 🤔 I’m looking for help in learning about Web Dev and Blockchain 
+- ⚒️ I’m currently working on a Data Analytic Project  
+- ♨️ I’m currently learning about Data Structures , with Python 
+- ⛓️ I’m looking forward to learn Machine Learning
+- 🤔 I’m looking for help in learning about Web Dev and Data Science 
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: <p align='Center'> <a href="https://www.linkedin.com/in/sudarshan-trifaley/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
 <a href="mailto:trifaleysudarshan@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a></p>
