@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudarshan Trifaley</h1>
+<h1 align="center">Namaste, I'm Sudarshan Trifaley</h1>
 <h3 align="center">A passionate Web Developer and Machine Learning Enthusiast from India.</h3>
 
 - 🌱 I’m currently exploring **Machine Learning**
