@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudarshan24-byte](https://github.com/sudarshan24-byte)
 
-- 📫 How to reach me **trifaleysudarshan@gmail.com**
+- 📫 How to reach me **sudarshantrifaley@gmail.com**
 
 - ⚡ Fun fact **Nothing is impossible. The word itself says “I’m possible!**
 
