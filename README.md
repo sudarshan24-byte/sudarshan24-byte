@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sudarshantrifaley@gmail.com**
 
-- 🌐 My Portfolio Website **https://sudarshan24-byte.netlify.app/**
+- 🌐 My Portfolio Website https://sudarshan24-byte.vercel.app/
 
 - ⚡ Fun fact **Nothing is impossible. The word itself says “I’m possible!**
 
